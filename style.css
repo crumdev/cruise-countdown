@@ -29,7 +29,7 @@ flex-direction: column;
     clip-path: circle(150px at center);
 }
 .boat {
-    background-image:url('/img/cruiseship.png');
+    background-image:url('./img/cruiseship.png');
     background-size:contain;
     background-repeat: no-repeat;
     width:200px;
@@ -63,7 +63,7 @@ flex-direction: column;
 
 .wave{
     height: 70px;
-    background-image: url('/img/wave.png');
+    background-image: url('./img/wave.png');
     background-repeat: repeat-x;
     position: relative;
     top:140px;
